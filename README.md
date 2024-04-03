@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realmisterduck
 - 👀 I’m interested in AI, Coding, Automation and more!
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing yet
+- 🌱 I’m currently learning Python and C/C++
+- 💞️ I’m not looking to collaborate yet
 - 📫 You can reach me on Discord: mrduckftw
 
 <!---
